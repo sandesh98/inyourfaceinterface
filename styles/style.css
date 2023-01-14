@@ -1,0 +1,254 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: #E0DDF2;
+    color: #7365C4;
+}
+
+.section-border {
+    border-left: solid;
+    border-left-width: 35px;
+    padding: 18px;
+}
+
+.section-title {
+    font-size: 54px;
+    font-weight: 600;
+    padding-bottom: 12px;
+}
+
+@media (max-width: 767.98px) {
+    .section-title {
+        font-size: 36px;
+        font-weight: 600;
+        padding-bottom: 12px;
+    }
+}
+
+/* SECTION: CHALLENGE */
+
+#challenge > .container > .section-border > .section-title {
+    color: #7365C4;
+}
+
+.challenge-info {
+    color: #CAC2FC;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+@media (max-width: 767.98px) {
+    .challenge-info {
+        color: #CAC2FC;
+        font-size: 24px;
+        font-weight: 600;
+    }
+}
+
+/* SECTION: TEAM */
+
+#team {
+    background-color: #E0DDF2;
+}
+
+#team > .container > .section-border > .section-title {
+    color: #7365C4;
+}
+
+.team-name {
+    color: #7365C4;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.team-role {
+    color: #7365C4;
+}
+
+/* SECTION: RESEARCH */
+
+#research > .container > .row .section-border > .section-title {
+    color: #A865A6;
+}
+
+.research-text {
+    font-size: 18px;
+}
+
+/* SECTION: INSIGHTS */
+#insights {
+    background-color: #EFDAEF;
+}
+
+#insights > .container > .section-border > .section-title {
+    color: #A865A6;
+}
+
+.insight-name {
+    color: #C393C2;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.insight-info {
+    color: #A865A6;
+}
+
+/* SECTION: CONCEPTING */
+
+#concepting > .container > .row .section-border > .section-title {
+    color: #DE6B6B;
+}
+
+.research-text {
+    font-size: 18px;
+}
+
+/* SECTION: QUESTION */
+
+#question {
+    background-color: #FBD3D3;
+}
+
+.question {
+    font-weight: 600;
+    color: #DE6B6B;
+    font-size: 36px;
+}
+
+@media (max-width: 767.98px) {
+    .question {
+        font-weight: 600;
+        color: #DE6B6B;
+        font-size: 24px;
+    }
+}
+
+
+
+/* SECTION: RULES */
+
+#rules > .container > .section-border > .section-title {
+    color: #DE6B6B;
+}
+
+.card {
+    padding-right: 4px;
+    border-radius: 10px;
+}
+
+.card-red {
+    background-color: #FBD3D3;
+    color: #DE6B6B;
+}
+
+.card-blue {
+    background-color: #A4DAEC;
+    color: #23B1E1;
+}
+
+.card-magenta {
+    background-color: #EFDAEF;
+    color: #A865A6;
+}
+
+.card-purple {
+    background-color: #E0DDF2;
+    color: #7365C4;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 22px;
+    margin: 0px;
+}
+
+.card-info {
+    color: black;
+    font-size: 18px;
+}
+
+.emoji-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 6px 12px 6px 6px;
+    border-radius: 8px;
+    background-color: #F3F3F3;
+    min-height: 90px;
+    min-width: 90px;
+}
+
+.emoji-inner {
+    font-size: 54px;
+}
+
+/* SECTION: VIDEO */
+
+#video {
+    background-color: #E0F7FF;
+}
+
+#video > .container > .section-border > .section-title {
+    color: #23B1E1;
+}
+
+/* SECTION: FEATURES */
+
+#features > .container > .section-border > .section-title {
+    color: #23B1E1;
+}
+
+.feature-title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.feature-title-blue {
+    color: #23B1E1;
+}
+
+.feature-title-purple {
+    color: #7365C4;
+}
+
+.feature-info {
+    font-size: 18px;
+}
+
+/* SECTION: IMAGES */
+
+#images {
+    background-color: #E0F7FF;
+}
+
+.column-gap-3 {
+    column-gap: 10px;
+}
+
+/* SECTION: PROTOTYPE */
+
+#prototype {
+    background-color: #E0DDF2;
+}
+
+#prototype > .container > .section-border > .section-title {
+    color: #7365C4;
+}
+
+.prototype-title {
+    color: #7365C4;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+footer {
+    padding: 12px 0px;
+    color: #A865A6;
+}
+
+.bubba{
+    color: #A865A6;
+}
