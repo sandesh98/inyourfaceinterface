@@ -67,6 +67,16 @@ html, body {
     color: #7365C4;
 }
 
+.social-icon {
+    font-size: 24px;
+    color: #7365C4;
+}
+
+.social-icon:hover {
+    color: #A865A6;
+    transition: color 100ms linear 100ms;
+}
+
 /* SECTION: RESEARCH */
 
 #research > .container > .row .section-border > .section-title {
