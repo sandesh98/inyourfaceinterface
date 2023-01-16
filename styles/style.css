@@ -25,6 +25,13 @@ html, body {
         font-weight: 600;
         padding-bottom: 12px;
     }
+
+    .section-border {
+        border-left: solid;
+        border-left-width: 20px;
+        padding: 18px;
+    }
+
 }
 
 /* SECTION: CHALLENGE */
