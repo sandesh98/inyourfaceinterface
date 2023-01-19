@@ -259,6 +259,12 @@ html, body {
     color: #7365C4;
     font-size: 22px;
     font-weight: 600;
+    text-decoration: none;
+}
+
+.prototype-title:hover {
+    color: #A865A6;
+    transition: color 100ms linear 100ms;
 }
 
 footer {
